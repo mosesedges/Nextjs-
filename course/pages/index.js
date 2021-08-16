@@ -5,10 +5,11 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div>
-      <Link href="/blog">
+      {/* <Link href="/blog">
         <a>Blog</a>
       </Link>
-      <h1>Home page </h1>
+      <h1>Home page </h1> */}
+      {404}
     </div>
   );
 }
